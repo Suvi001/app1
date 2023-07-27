@@ -1,0 +1,17 @@
+git -version control system
+github 
+
+
+gmail -> saleje8472@rc3s.com
+password -> rv.
+name -> suvi002
+
+cmd - commandprompt
+Git Commands
+
+git init
+out - Initialized empty Git repository in C:/Users/siva/Desktop/pro/.git/
+
+
+
+
